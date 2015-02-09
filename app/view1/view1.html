@@ -1,1 +1,12 @@
-<p>This is the partial for view 1.</p>
+<div ngController="View1Ctrl">
+
+	<div class="input-group">
+		<span class="input-group-addon" id="basic-addon1">Text Field</span>
+		 <input type="text" ng-model="text" ng-bind="text" class="form-control" placeholder="Type your text here" 
+		 aria-describedby="basic-addon1" autofocus>
+	</div>
+
+		<canvas id="myCanvas" ng-click="drawText($event)" width="750px" min-height="400px"
+				style="border:1px solid #000000;">
+		</canvas>
+</div>
