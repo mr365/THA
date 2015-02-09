@@ -21,4 +21,6 @@ npm start
 Now browse to the app at `http://localhost:8000/app/index.html`.
 
 ##Brief Description:
-	Consider Looking into  index.html, app.js and the main coding is in --> view1/view1.html, view1/view1.js
+	Consider Looking into  aap/index.html,
+	 app/app.js and the main coding is in --> 
+	 app/view1/view1.html, app/view1/view1.js
