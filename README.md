@@ -1,4 +1,3 @@
-# Application Skeleton -> angular-seed — the seed for AngularJS apps
 
 ## Steps to get it working 
 
